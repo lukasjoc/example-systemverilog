@@ -19,7 +19,7 @@ int main(int argc, char** argv, char** env) {
     // Please see those examples for commented sources, here:
     // https://github.com/verilator/verilator/tree/master/examples
 
-    if (0 && argc && argv && env) {}
+    // if (0 && argc && argv && env) {}
 
     Verilated::debug(0);
     Verilated::randReset(2);
